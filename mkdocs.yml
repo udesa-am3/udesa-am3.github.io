@@ -1,0 +1,173 @@
+site_name: Análisis Matemático III
+site_description: >
+  Análisis Matemático III
+  Universidad de San Andrés
+site_dir: _site
+site_url: "https://udesa-am3.github.io"
+copyright: "Licencia: CC-BY-SA 4.0"
+
+theme:
+  name: material
+  logo: 'img/logo.png'
+  language: es
+  features:
+    - content.code.annotate
+    - navigation.indexes
+#    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+  palette:
+    primary: teal
+    accent: orange
+  font:
+    text: Roboto
+    code: Fira Code
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - javascripts/fontawesome/all.min.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - css/bootstrap-card.css
+  - css/cards.css
+  - css/extra.css
+  - css/fontawesome/all.min.css
+  - css/quotes.css
+
+plugins:
+  - git-authors
+  - git-revision-date-localized
+  - glightbox
+  - macros
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - codehilite:
+      guess_lang: false
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - footnotes
+  - meta
+  - toc:
+      permalink: "#"
+      toc_depth: 3
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
+  - smarty
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shortener: true
+  - pymdownx.mark
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - Inicio:
+    - Inicio: index.md
+    - Sobre la materia: about/README.md
+    - Diapositivas de las clases: clases/README.md
+    - Guías de ejercicios: ejercicios/README.md
+    - Trabajos Prácticos: tps/README.md
+    - Exámenes viejos: examenes/README.md
+    - Extras: extras/README.md
+  - Sobre la materia:
+    - about/README.md
+    - Programa de la materia: about/programa.md
+    - Bibliografía: about/bibliografia.md
+    - Calendario: about/calendario.md
+    - Fechas importantes y contacto: about/contacto.md
+  - Diapositivas de las clases: 
+    - clases/README.md
+    - Práctica:
+      - Repaso números complejos: clases/complejos.md
+      - Series y sucesiones: clases/series.md
+      - Señales discretas: clases/señales_discretas.md
+      - Transformada discreta de Fourier: clases/dft.md
+      - Series de Fourier: clases/series_fourier.md
+      - Transformada de Fourier: clases/fourier.md
+      - Transformada de Laplace: clases/laplace.md
+      - Transformada Z: clases/tz.md
+  - Guías de ejercicios: 
+    - ejercicios/README.md
+    - Repaso números complejos: ejercicios/main_1.md
+    - Series y sucesiones: ejercicios/main_2.md
+    - Señales discretas: ejercicios/main_3.md
+    - Transformada discreta de Fourier: ejercicios/main_4.md
+    - Series de Fourier: ejercicios/main_5.md
+    - Transformada de Fourier: ejercicios/main_6.md
+    - Transformada de Laplace: ejercicios/main_7.md
+    - Transformada Z: ejercicios/main_8.md
+  - Trabajos Prácticos: 
+    - tps/README.md
+    - Trabajo práctico 1:
+      - tps/tp1.md
+    - Trabajo práctico 2:
+      - tps/tp2.md
+  - Evaluaciones pasadas: 
+    - examenes/README.md
+    - Parcial: examenes/parcial.md
+    - Final: examenes/final.md
+  - Videos y recursos útiles:
+    - extras/misc.md
+
+extra:
+  bibliografia:
+    principal:
+      - autores: Alan V. Oppenheim y Alan S. Willsky (con S. Hamid Nawab)
+        titulo: Signals and Systems
+        edicion: 2.ª ed.
+        editorial: Prentice Hall
+        isbn: 9789572181423 
+        fecha: 1996
+        portada: oppenheim_señales.jpg
+      - autores: Alan V. Oppenheim y Ronald W Schafer
+        titulo: Discrete-Time Signal Processing
+        edicion: 3.ª ed.
+        editorial: Prentice Hall
+        isbn: 9780131988422 
+        fecha: 2010
+        portada: oppenheim_ing.webp
+    consulta:
+      - autores: Julio Rey Pastor, Pedro Pi Calleja y César A. Trejo César 
+        titulo: "Análisis Matemático"
+        editorial: Kapelusz
+        fecha: 1959
+      - autores: Ruel Vance Churchill
+        titulo: "Variable Compleja y Aplicaciones"
+        editorial: McGraw Hill
+        fecha: 1992
+       
+     
+       
+     
+
+
