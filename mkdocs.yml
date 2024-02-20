@@ -108,14 +108,14 @@ nav:
   - Diapositivas de las clases: 
     - clases/README.md
     - Práctica:
-      - Repaso números complejos: clases/complejos.md
-      - Series y sucesiones: clases/series.md
-      - Señales discretas: clases/señales_discretas.md
-      - Transformada discreta de Fourier: clases/dft.md
-      - Series de Fourier: clases/series_fourier.md
-      - Transformada de Fourier: clases/fourier.md
-      - Transformada de Laplace: clases/laplace.md
-      - Transformada Z: clases/tz.md
+      - 1. Repaso números complejos: clases/complejos.md
+      - 2. Series y sucesiones: clases/series.md
+      - 3. Señales discretas: clases/señales_discretas.md
+      - 4. Transformada discreta de Fourier: clases/dft.md
+      - 5. Series de Fourier: clases/series_fourier.md
+      - 6. Transformada de Fourier: clases/fourier.md
+      - 7. Transformada de Laplace: clases/laplace.md
+      - 8. Transformada Z: clases/tz.md
   - Guías de ejercicios: 
     - ejercicios/README.md
     - Repaso números complejos: ejercicios/main_1.md

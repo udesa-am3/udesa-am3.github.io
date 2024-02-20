@@ -4,9 +4,8 @@ hide:
 ---
 # Programa 
 
-Eventualmente, va acá.
 <iframe width="80%" height="1300px"
-        src="https://drive.google.com/file/d/1AjrGUqqsat_CK2KB5HY9wBX7E1b0qA79/preview">
+        src="https://docs.google.com/document/d/1UT1-Lz2r9ocJykSOaFoj8-qRlIx1bfNLGdUXOlsk6zo/preview">
 </iframe>
 
 
