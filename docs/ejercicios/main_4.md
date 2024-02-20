@@ -2,9 +2,7 @@
 
 1.  Dada la siguiente señal $x[n]$ de 8 muestras, calcular la DFT de dicha señal. 
 
-    ::: center
-    ![image](1){width="60%"}
-    :::
+    ![Señal ejercicio 1 guía 4](./imgs/g4_ej1.png "Señal ejercicio 1")
 
     *Para resolver con algún lenguaje de programación:* 
     
@@ -28,9 +26,7 @@
 
 1.  Dado el siguiente gráfico del módulo de la DFT de una señal real *sin leaking* $Y[k]$, encuentre la función temporal que le dio origen. Asuma que la fase es nula.
 
-    ::: center
-    ![image](5){width="50%"}
-    :::
+    ![Señal ejercicio 4 guía 4](./imgs/g4_ej4.png "Señal ejercicio 4")
 
 1.  Representar gráficamente toda la información (componentes real, imaginario y fase) de la DFT de 16 muestras de la siguiente señal:
 
@@ -44,7 +40,7 @@
     
     $$y_3[n] = 2cos\left(\dfrac{2\pi}{8}n\right)u[n]\;\;\; Y_3[k] = \begin{cases}N & k = 8 \hspace{6pt} y \hspace{6pt} k = 56\\ 0 & otro\hspace{6pt}caso \end{cases}$$
     
-    $$y_4[n] = cos\left(\dfrac{2\pi}{12}n\right)u[n]$\;\;\; Y_4[k] = \begin{cases}\dfrac{N}{2} & k = 12 \hspace{6pt} y \hspace{6pt} k = 52\\ 0 & otro\hspace{6pt}caso \end{cases}$$
+    $$y_4[n] = cos\left(\dfrac{2\pi}{12}n\right)u[n]\;\;\; Y_4[k] = \begin{cases}\dfrac{N}{2} & k = 12 \hspace{6pt} y \hspace{6pt} k = 52\\ 0 & otro\hspace{6pt}caso \end{cases}$$
 
     1.  Sin realizar ningún cálculo, evalúe para cada caso si las $Y_i[k]$ provistas efectivamente corresponden a la DFT de cada función $y_i[n]$. Para esto, halle las frecuencias características de cada señal. ¿Cómo interactúan éstas con la cantidad de muestras que se evalúen?
 
@@ -136,9 +132,7 @@ magnitud, la parte real y la fase de la DFT.
 
 1.  La siguiente figura muestra un espectrograma de una señal, una tipo de representación tiempo-frecuencia, en donde se puede observar cómo varía el espectro de una señal en el tiempo:
 
-    ::: center
-    ![image](11){width="65%"}
-    :::
+    ![Señal ejercicio 13 guía 4](./imgs/g4_ej13.png "Espectrograma ejercicio 13")
 
     En este tipo de representaciones, el eje $y$ simboliza la frecuencia mientras que el eje $x$ corresponde a las muestras.
 
@@ -146,5 +140,4 @@ magnitud, la parte real y la fase de la DFT.
 
     $$x[n] = 2\sqrt{2} sen(\omega_0\;n + 500 cos(\omega_{mod}\;n))$$
 
-    Inspeccionando el gráfico, determine de forma aproximada los valores de $\omega_0$ y $\omega_{mod}$. ¿Qué puede decir sobre la simetría de esta
-representación? ¿Nota algo particular?
+    Inspeccionando el gráfico, determine de forma aproximada los valores de $\omega_0$ y $\omega_{mod}$. ¿Qué puede decir sobre la simetría de esta representación? ¿Nota algo particular?

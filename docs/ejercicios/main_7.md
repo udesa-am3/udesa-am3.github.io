@@ -69,6 +69,6 @@
     -  $||f(t)||_2 = 18$
     -  $F(s)$, su transformada de Laplace, es una función racional.
     -  $\lim_{s\rightarrow-2} F(s) = \infty$
-    -  $|F(S) \neq 0 \; \forall s \in \{z \in \mathbb{C} | \Re(z) > -2\}$
+    -  $|F(S)| \neq 0 \; \forall s \in \{z \in \mathbb{C} | \Re(z) > -2\}$
     
     Una vez que encuentre $f(t)$, de una segunda función distinta que también cumpla con las condiciones propuestas.

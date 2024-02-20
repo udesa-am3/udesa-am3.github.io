@@ -2,9 +2,9 @@
 
 ## Problemas 7
 
-*Proximamente*
+*Próximamente*
 
 ## Tutorial 7
 
-*Proximamente*
+*Próximamente*
 

@@ -26,18 +26,12 @@
 
 1.  Hallar la serie trigonométrica de Fourier de la señal de la figura, graficar su espectro en magnitud y fase:
 
-    ::: center
-    ![image](6){width="65%"}
-    :::
+    ![Señal ejercicio 5](./imgs/g5_ej5.png "Señal ejercicio 5")
 
 1.  Hallar la serie trigonométrica de Fourier de la señal de la figura, graficar su espectro en magnitud y fase:
 
-    ::: center
-    ![image](7){width="65%"}
-    :::
+    ![Señal ejercicio 6](./imgs/g5_ej6.png "Señal ejercicio 6")
 
 1.  Hallar la serie trigonométrica de Fourier de la señal de la figura, graficar su espectro en magnitud y fase:
 
-    ::: center
-    ![image](8){width="65%"}
-    :::
+    ![Señal ejercicio 7](./imgs/g5_ej7.png "Señal ejercicio 7")

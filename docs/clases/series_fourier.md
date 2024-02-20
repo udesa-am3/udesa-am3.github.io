@@ -2,8 +2,8 @@
 
 ## Problemas 5
 
-*Proximamente*
+*Próximamente*
 
 ## Tutorial 5
 
-*Proximamente*
+*Próximamente*

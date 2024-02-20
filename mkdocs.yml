@@ -108,6 +108,7 @@ nav:
   - Diapositivas de las clases: 
     - clases/README.md
     - Práctica:
+      - 0. Introducción y cuestiones administrativas: clases/intro.md
       - 1. Repaso números complejos: clases/complejos.md
       - 2. Series y sucesiones: clases/series.md
       - 3. Señales discretas: clases/señales_discretas.md
@@ -118,20 +119,18 @@ nav:
       - 8. Transformada Z: clases/tz.md
   - Guías de ejercicios: 
     - ejercicios/README.md
-    - Repaso números complejos: ejercicios/main_1.md
-    - Series y sucesiones: ejercicios/main_2.md
-    - Señales discretas: ejercicios/main_3.md
-    - Transformada discreta de Fourier: ejercicios/main_4.md
-    - Series de Fourier: ejercicios/main_5.md
-    - Transformada de Fourier: ejercicios/main_6.md
-    - Transformada de Laplace: ejercicios/main_7.md
-    - Transformada Z: ejercicios/main_8.md
+    - 1. Repaso números complejos: ejercicios/main_1.md
+    - 2. Series y sucesiones: ejercicios/main_2.md
+    - 3. Señales discretas: ejercicios/main_3.md
+    - 4. Transformada discreta de Fourier: ejercicios/main_4.md
+    - 5. Series de Fourier: ejercicios/main_5.md
+    - 6. Transformada de Fourier: ejercicios/main_6.md
+    - 7. Transformada de Laplace: ejercicios/main_7.md
+    - 8. Transformada Z: ejercicios/main_8.md
   - Trabajos Prácticos: 
     - tps/README.md
-    - Trabajo práctico 1:
-      - tps/tp1.md
-    - Trabajo práctico 2:
-      - tps/tp2.md
+    - Trabajo práctico 1: tps/tp1.md
+    - Trabajo práctico 2: tps/tp2.md
   - Evaluaciones pasadas: 
     - examenes/README.md
     - Parcial: examenes/parcial.md
