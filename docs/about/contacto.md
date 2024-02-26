@@ -1,9 +1,11 @@
-TODO agregar fechas importantes
+# Fechas importantes
 
-Contacto:
+*Próximamente*
 
-Claus Rosito: crosito@udesa.edu.ar
+# Contacto
 
-Guillermo Marzik: gmarzik@udesa.edu.ar
+  -  Claus Rosito: crosito@udesa.edu.ar
 
-Alejandro Sosa Welford: asosawelford@udesa.edu.ar
+  -  Guillermo Marzik: gmarzik@udesa.edu.ar
+
+  -  Alejandro Sosa Welford: asosawelford@udesa.edu.ar
