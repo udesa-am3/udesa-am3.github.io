@@ -105,8 +105,10 @@ nav:
     - Bibliografía: about/bibliografia.md
     - Calendario: about/calendario.md
     - Fechas importantes y contacto: about/contacto.md
-  - Diapositivas de las clases: 
+  - Diapositivas y apuntes: 
     - clases/README.md
+    - Apuntes teoría:
+      - Series y sucesiones numéricas: apuntes/series_sucesiones.md
     - Práctica:
       - 0. Introducción y cuestiones administrativas: clases/intro.md
       - 1. Repaso números complejos: clases/complejos.md
