@@ -108,6 +108,7 @@ nav:
   - Diapositivas y apuntes: 
     - clases/README.md
     - Apuntes teoría:
+      - Teorema Fundamental del Álgebra: apuntes/tfa.md
       - Series y sucesiones numéricas: apuntes/series_sucesiones.md
     - Práctica:
       - 0. Introducción y cuestiones administrativas: clases/intro.md
