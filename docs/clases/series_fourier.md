@@ -7,3 +7,11 @@
 ## Tutorial 6
 
 <iframe src="https://drive.google.com/file/d/1zP2dfisVyMU8017cFtjM6x81m6beXr6N/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Problemas 7
+
+<iframe src="https://drive.google.com/file/d/1267pAHEmJBmsFIM-XMwKP7dmhFTwm5P1/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Tutorial 7
+
+Próximamente
