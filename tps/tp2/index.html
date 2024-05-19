@@ -94,7 +94,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#trabajo-práctico-2" class="md-skip">
+        <a href="#trabajo-práctico-2---reconocimiento-de-dígitos-a-partir-de-señales-de-audio" class="md-skip">
           Saltar a contenido
         </a>
       
@@ -1490,6 +1490,17 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Trabajo práctico 2
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -1499,6 +1510,76 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objetivos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#desarrollo-del-trabajo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Desarrollo del trabajo
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Desarrollo del trabajo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#versión-clásica" class="md-nav__link">
+    <span class="md-ellipsis">
+      Versión clásica
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#versión-con-redes-neuronales" class="md-nav__link">
+    <span class="md-ellipsis">
+      Versión con redes neuronales
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega" class="md-nav__link">
+    <span class="md-ellipsis">
+      Entrega
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1709,6 +1790,65 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objetivos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#desarrollo-del-trabajo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Desarrollo del trabajo
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Desarrollo del trabajo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#versión-clásica" class="md-nav__link">
+    <span class="md-ellipsis">
+      Versión clásica
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#versión-con-redes-neuronales" class="md-nav__link">
+    <span class="md-ellipsis">
+      Versión con redes neuronales
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega" class="md-nav__link">
+    <span class="md-ellipsis">
+      Entrega
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1722,8 +1862,36 @@
                   
 
 
-<h1 id="trabajo-práctico-2">Trabajo práctico 2<a class="headerlink" href="#trabajo-práctico-2" title="Permanent link">#</a></h1>
-<p><em>Próximamente</em></p>
+<h1 id="trabajo-práctico-2---reconocimiento-de-dígitos-a-partir-de-señales-de-audio">Trabajo práctico 2 - Reconocimiento de dígitos a partir de señales de audio<a class="headerlink" href="#trabajo-práctico-2---reconocimiento-de-dígitos-a-partir-de-señales-de-audio" title="Permanent link">#</a></h1>
+<h2 id="objetivos">Objetivos<a class="headerlink" href="#objetivos" title="Permanent link">#</a></h2>
+<p>Este trabajo práctico consiste en el diseño y evaluación de distintos sistemas orientados a la clasificación automática de dígitos a partir de señales de audio. La idea es que se pongan en práctica conceptos estudiados en clase referidos al análisis de señales en el dominio de la frecuencia para diseñar un clasificador basado en técnicas clásicas de procesamiento de señales, y una segunda variante basada en técnicas de aprendizaje automático. En todos los casos, se deberán proponer métricas objetivas que permitan dar cuenta del rendimiento de los sistemas planteados.</p>
+<h2 id="desarrollo-del-trabajo">Desarrollo del trabajo<a class="headerlink" href="#desarrollo-del-trabajo" title="Permanent link">#</a></h2>
+<p>Podemos dividir el trabajo encomendado en dos áreas principales:</p>
+<ul>
+<li>Diseño de un clasificador automático de dígitos hablados usando técnicas clásicas de procesamiento de señales.</li>
+<li>Diseño de un clasificador automático de dígitos hablados usando técnicas de aprendizaje automático.</li>
+</ul>
+<p>En ambos casos, se les provee un cuerpo de datos que consiste en 3000 grabaciones de un segundo de duración, en donde distintas personas pronuncian, en inglés, los números del 0 al 9.</p>
+<h3 id="versión-clásica">Versión clásica<a class="headerlink" href="#versión-clásica" title="Permanent link">#</a></h3>
+<p>Este primer enfoque está pensado para que apliquen directamente cosas que hayamos visto durante la cursada, o herramientas que se desprendan de ellas. A continuación, un par de puntos a tener en cuenta para arrancar y para tener en cuenta durante el desarrollo del trabajo:</p>
+<ul>
+<li>Una propuesta posible de clasificador consiste en el cálculo de versiones promedio de los audios de los distintos números a detectar. De esta forma, de la cantidad de audios en donde se pronuncia el 0, por ejemplo, uno podría calcular una representación promedio, ya sea en el dominio de las muestras, en el de la frecuencia, o en algún tipo de parametrización. Una vez que se obtiene una representación promedio para cada dígito, uno podría tomar un audio cualquiera y compararlo con cada una de ellas usando alguna métrica objetiva. A partir de este resultado, el par promedio-audio que tenga la menor diferencia podría indicarnos qué dígito se está pronunciando en esa instancia en particular.</li>
+<li>Es importante que propongan distintos tipos de análisis que permitan estudiar qué pasa si cambio distintos parámetros de su clasificador. Por ejemplo, siguiendo con la propuesta de las representaciones promedio de cada dígito, ¿qué pasa si trabajo en tiempo? ¿y en frecuencia? ¿pierdo algo en un caso o en otro? Este tipo de preguntas son las que se deberían hacer antes de comenzar a trabajar y son las que van a guiar su propuesta.</li>
+</ul>
+<p>Es importante notar que lo explicado en esta sección es meramente orientativo, son muy bienvenidas propuestas originales para el diseño de los clasificadores (aunque se recomienda consultar preventivamente con los docentes si la propuesta es viable).</p>
+<h3 id="versión-con-redes-neuronales">Versión con redes neuronales<a class="headerlink" href="#versión-con-redes-neuronales" title="Permanent link">#</a></h3>
+<p>Además del cuerpo de datos, se les provee el código de una red neuronal simple destinada a la predicción del dígito pronunciado en un archivo de audio. La tarea en esta etapa del trabajo es más guiada que en la otra, se propone estudiar cómo variar el dominio en la que se presentan los datos durante el entrenamiento del modelo repercute en el resultado final y en la calidad de las predicciones. Se requieren tres versiones del modelo: una en donde el dato ingresado corresponde a la forma de onda cruda, sin ningún procesamiento; otra en donde el dato ingresado corresponde al módulo de la DFT de los audios y una última en donde se ingresan los coeficientes MFCC de las señales. ¿Hay alguna representación de los datos de entrada que de mejores resultados? ¿Por qué puede ser?</p>
+<p>No es necesario ningún conocimiento previo de redes neuronales o aprendizaje automático para poder llevar a cabo esta etapa, lo único que deben hacer es completar con su código el archivo <code>dataset.py</code> y analizar los datos que se generan automaticamente luego de ejecutar <code>train.py</code> y <code>test.py</code>.</p>
+<h2 id="entrega">Entrega<a class="headerlink" href="#entrega" title="Permanent link">#</a></h2>
+<p>Los resultados y el análisis propuestos deben estar contenidos en un informe técnico (escrito con buena ortografía y redacción en español rioplatense) que siga el formato provisto por la cátedra. Los gráficos y tablas deben ser claros y legibles, además de tener sus correspondientes títulos y unidades (sin los cuales el gráfico o tabla se considerará nulo).</p>
+<p>Cada resultado debe estar acompañado con un análisis en donde se discuta si lo obtenido es lo esperable o no, y por qué. Todo debe estar justificado y acompañado con gráficos o tablas que lo sustente.</p>
+<p>Este trabajo es mucho menos guiado que el anterior, los requerimientos expresados en este documentos son los mínimos esperados pero serán muy bien recibidas preguntas nuevas y originales que escapen a las propuestas inicialmente. </p>
+<p>Recomendamos fuertemente hacer el trabajo con la mayor antelación posible; el tiempo que lleva el trabajo efectivo debería ser corto en contraste con el tiempo de razonamiento y análisis del problema, que puede llevar varios días. </p>
+<p>El trabajo se realizará en grupos de hasta 3 personas. Los grupos deben estar inscriptos en el campus de la materia, sin excepciones. </p>
+<p>Se debe realizar la entrega de los archivos a través de la tarea creada en el campus. En la misma se encuentra la fecha de entrega. No se considerarán entregas realizadas fuera de tiempo salvo casos de fuerza mayor.</p>
+<p>Se espera que la entrega esté compuesta por dos archivos, un .pdf con el informe y un archivo con el código usado para el análisis y confección de los gráficos (lenguaje a elección, recomendamos Python).</p>
+<p><strong>El informe no puede superar las 15 páginas (estricto).</strong></p>
+<p>Se recuerda a los estudiantes que las entregas deben ser un producto original de cada estudiante, por lo que se les pide revisar el Código de Honor y Ética.</p>
 
 
 
@@ -1744,7 +1912,7 @@
     <span class="md-icon" title="Última actualización">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 20, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 17, 2024</span>
   </span>
 
     
