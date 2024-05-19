@@ -2,317 +2,177 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://udesa-am3.github.io/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/about/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/about/bibliografia/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/about/calendario/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/about/contacto/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/about/programa/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/apuntes/series_sucesiones/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/apuntes/tfa/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/clases/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/clases/complejos/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/clases/dft/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/clases/fourier/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/clases/intro/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/clases/laplace/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/clases/series/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/clases/series_fourier/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/clases/se%C3%B1ales_discretas/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/clases/tz/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/ejercicios/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/ejercicios/main_1/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/ejercicios/main_2/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/ejercicios/main_3/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/ejercicios/main_4/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/ejercicios/main_5/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/ejercicios/main_6/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/ejercicios/main_7/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/ejercicios/main_8/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/examenes/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/examenes/final/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/examenes/parcial/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/extras/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/extras/misc/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/tps/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/tps/tp1/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://udesa-am3.github.io/tps/tp2/</loc>
-<<<<<<< HEAD
-         <lastmod>2024-05-13</lastmod>
-=======
          <lastmod>2024-05-19</lastmod>
->>>>>>> 872bf3f (diapos problemas 9 y 10)
          <changefreq>daily</changefreq>
     </url>
 </urlset>
