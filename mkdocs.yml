@@ -132,8 +132,9 @@ nav:
     - 8. Transformada Z: ejercicios/main_8.md
   - Trabajos Prácticos: 
     - tps/README.md
-    - Trabajo práctico 1: tps/tp1.md
-    - Trabajo práctico 2: tps/tp2.md
+    - Trabajo práctico: tps/tp.md
+      #- Trabajo práctico 1: tps/tp1.md
+      #- Trabajo práctico 2: tps/tp2.md
   - Evaluaciones pasadas: 
     - examenes/README.md
     - Parcial: examenes/parcial.md

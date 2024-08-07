@@ -2,6 +2,6 @@
 hide:
     - toc
 ---
-# Calendario tentativo primer cuatrimestre 2024
+# Calendario tentativo segundo cuatrimestre 2024 - práctica
 
 Eventualmente estará acá.
