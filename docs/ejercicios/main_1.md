@@ -62,7 +62,7 @@ resultados en forma binómica:
 
     1.  $z+\overline{z} = 2\Re(z)$
 
-    1.  $z-\overline{z} = 2\Im(z)$
+    1.  $z-\overline{z} = 2i\Im(z)$
 
 1.  Considerar los siguientes polinomios:
 
