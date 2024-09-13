@@ -95,6 +95,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#trabajo-práctico----identificación-de-sistemas-desconocidos" class="md-skip">
+          Saltar a contenido
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -1466,6 +1471,19 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Trabajo práctico
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -1476,6 +1494,67 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objetivos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#desarrollo-del-trabajo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Desarrollo del trabajo
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Desarrollo del trabajo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#condiciones-necesarias-y-suficientes-para-aprobar" class="md-nav__link">
+    <span class="md-ellipsis">
+      Condiciones necesarias y suficientes para aprobar
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega" class="md-nav__link">
+    <span class="md-ellipsis">
+      Entrega
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1687,6 +1766,58 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objetivos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#desarrollo-del-trabajo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Desarrollo del trabajo
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Desarrollo del trabajo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#condiciones-necesarias-y-suficientes-para-aprobar" class="md-nav__link">
+    <span class="md-ellipsis">
+      Condiciones necesarias y suficientes para aprobar
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega" class="md-nav__link">
+    <span class="md-ellipsis">
+      Entrega
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -1701,9 +1832,26 @@
                   
 
 
-  <h1>Trabajo práctico</h1>
-
-<p><em>Proximamente</em></p>
+<h1 id="trabajo-práctico----identificación-de-sistemas-desconocidos">Trabajo práctico  - Identificación de sistemas desconocidos<a class="headerlink" href="#trabajo-práctico----identificación-de-sistemas-desconocidos" title="Permanent link">#</a></h1>
+<h2 id="objetivos">Objetivos<a class="headerlink" href="#objetivos" title="Permanent link">#</a></h2>
+<p>Este trabajo práctico consiste en la medición y análisis de un sistema desconocido, con la idea de poder describirlo para entender su funcionamiento. Puntualmente, el sistema propuesto corresponde a un circuito electrónico del cual nos interesa, a priori, su comportamiento en frecuencia.</p>
+<h2 id="desarrollo-del-trabajo">Desarrollo del trabajo<a class="headerlink" href="#desarrollo-del-trabajo" title="Permanent link">#</a></h2>
+<p>A cada equipo se le va a proveer un circuito electrónico ya armado que deberán tratar como si fuera una <em>caja negra</em>. Esto significa que no tienen acceso a los componentes del mismo, ni conocerán la topología del circuito que se les dio. Solo tendrán acceso a un par de pines de entrada y a otro par de pines de salida, en donde deberán conectar los distintos instrumentos de medición que permitirán simultáneamente inyectar una señal de medición al sistema y medir cómo este la afecta a la salida del circuito.</p>
+<p>En este último punto radica uno de los temas centrales del trabajo práctico: ¿qué señal de medición (o señales) propongo para caracterizar mi sistema? Esta elección debe realizarse teniendo en cuenta que, como mínimo, la idea es entender el funcionamiento del circuito en el dominio de la frecuencia, es decir, buscamos contestar cómo afecta espectralmente a una señal de entrada arbitraria.</p>
+<p>Temas secundarios, pero sumamente interesantes, están relacionados a la medición en sí. Yo elijo una señal de medición que asumo que caracteriza correctamente mi sistema, pero ¿es mi instrumental de medición perfecto? ¿qué nivel tiene que tener la señal de entrada? ¿qué pasa si la amplitud es muy baja? ¿y si es muy alta? Indefectiblemente la medición eléctrica que hagan va a tener que ser digitalizada para poder analizarla ¿cómo se relaciona el ancho de banda que puede procesar el equipo de medición con la frecuencia de muestreo que propongo para la discretización? ¿puedo caracterizar mi equipo de medición? ¿qué tan confiable es lo que estoy midiendo? ¿puedo proponer cotas de error para los resultados que presente? Último detalle, volviendo al mundo de señales y sistemas: Mencionamos que nos interesa caracterizar la respuesta en frecuencia del sistema pero ¿podemos decir algo acerca de la ubicación de los polos y ceros del sistema que caracterizamos?</p>
+<h3 id="condiciones-necesarias-y-suficientes-para-aprobar">Condiciones necesarias y suficientes para aprobar<a class="headerlink" href="#condiciones-necesarias-y-suficientes-para-aprobar" title="Permanent link">#</a></h3>
+<p>Como mínimo, esperamos que entreguen un informe con un diagrama de Bode del sistema que caracterizaron, acompañado de una descripción lo más detallada posible del procedimiento que siguieron para medir y procesar los datos, además de las justificaciones de las distintas decisiones que tomaron a lo largo del trabajo. Se espera que prueben más de una señal de medición de entrada y que estudien las diferencias en los resultados que obtengan con cada una de ellas.</p>
+<p>Más allá de eso, cualquier otro análisis es bienvenido y será muy bien considerado para la nota final del trabajo. Varias de las preguntas planteadas en la sección anterior son buenos puntos de partida. No esperamos que contesten todo (¡pero nos pondría muy contentos si pasara!), pero si que intenten algo por este lado.</p>
+<h2 id="entrega">Entrega<a class="headerlink" href="#entrega" title="Permanent link">#</a></h2>
+<p>Los resultados y el análisis propuestos deben estar contenidos en un informe técnico (escrito con buena ortografía y redacción en español rioplatense) que siga el formato provisto por la cátedra. Los gráficos y tablas deben ser claros y legibles, además de tener sus correspondientes títulos y unidades (sin los cuales el gráfico o tabla se considerará nulo).</p>
+<p>Cada resultado debe estar acompañado con un análisis en donde se discuta si lo obtenido es lo esperable o no, y por qué. Todo debe estar justificado y acompañado con gráficos o tablas que lo sustente.</p>
+<p>El enunciado de este trabajo es intencionalmente vago, es importante que empiecen a pensar en las preguntas con la mayor antelación posible para entender el problema, que muy probablemente les resulte distinto a lo que están acostumbrados a hacer.</p>
+<p>El trabajo se realizará en grupos de hasta 4 personas. Los grupos deben estar inscriptos en el campus de la materia, sin excepciones.</p>
+<p>Se debe realizar la entrega de los archivos a través de la tarea creada en el campus, tanto para la pre-entrega como para la entrega final. En la misma se encuentra la fecha de entrega. No se considerarán entregas realizadas fuera de tiempo salvo casos de fuerza mayor.</p>
+<p>La pre-entrega no será calificada, sólo servirá para orientar a la cátedra (y a ustedes) sobre las dificultades que surjan durante el desarrollo del trabajo.</p>
+<p>Se espera que la entrega esté compuesta por dos archivos, un .pdf con el informe y un archivo con el código usado para el análisis y confección de los gráficos (lenguaje a elección, recomendamos Python).</p>
+<p><strong>El informe no puede superar las 15 páginas (estricto).</strong></p>
+<p>Se recuerda a los estudiantes que las entregas deben ser un producto original de cada estudiante, por lo que se les pide revisar el Código de Honor y Ética.</p>
 
 
 
@@ -1724,7 +1872,7 @@
     <span class="md-icon" title="Última actualización">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">August 7, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">September 13, 2024</span>
   </span>
 
     
