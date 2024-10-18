@@ -117,9 +117,10 @@ nav:
       - 3. Señales discretas: clases/señales_discretas.md
       - 4. Transformada discreta de Fourier: clases/dft.md
       - 5. Series de Fourier: clases/series_fourier.md
-      - 6. Transformada de Fourier: clases/fourier.md
-      - 7. Transformada de Laplace: clases/laplace.md
-      - 8. Transformada Z: clases/tz.md
+      - 6. Sistemas: clases/sistemas.md
+      - 7. Transformada de Fourier: clases/fourier.md
+      - 8. Transformada de Laplace: clases/laplace.md
+      - 9. Transformada Z: clases/tz.md
   - Guías de ejercicios: 
     - ejercicios/README.md
     - 1. Repaso números complejos: ejercicios/main_1.md
